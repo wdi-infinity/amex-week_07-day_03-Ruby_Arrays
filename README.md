@@ -1,4 +1,4 @@
-# Ruby Map Practice
+# RUBY MAP PRACTICE
 
 ![ARRAYS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVWBMdo6Ac3moY3tPnzMsFVnOscOR03SxkZ4sPGGhsWoQrYMPZ9g)
 
